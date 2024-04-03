@@ -3,7 +3,7 @@ layout: post
 title: 드디어 수입된 르브론 제임스 밈
 date: 2024-04-03 09:24 +0900
 description: 
-image: https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/05e61f4f6bef666dc48e0d047edcf19d~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712278800&x-signature=AlTJVZ8nra1YM4V6v1E3hpn92m4%3D
+image: https://i.kym-cdn.com/entries/icons/facebook/000/049/004/lebronsunshinecover.jpg
 category: meme
 tags: 르브론제임스 르브론밈 르브론
 published: true
