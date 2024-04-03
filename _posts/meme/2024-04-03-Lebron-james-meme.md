@@ -13,7 +13,12 @@ sitemap: true
 # 르브론 제임스 you are my sunshine 밈이 뭐냐?!
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lesunshine_james/video/7345513027241872670" data-video-id="7345513027241872670" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lesunshine_james" href="https://www.tiktok.com/@lesunshine_james?refer=embed">@lesunshine_james</a> Lesunshine James is always watching ☀️☀️☀️☀️☀️☀️<a title="lebronjames" target="_blank" href="https://www.tiktok.com/tag/lebronjames?refer=embed">#lebronjames</a> <a title="sunshine" target="_blank" href="https://www.tiktok.com/tag/sunshine?refer=embed">#sunshine</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a target="_blank" title="♬ you are my sunshine - christina perri" href="https://www.tiktok.com/music/you-are-my-sunshine-6705101173034059777?refer=embed">♬ you are my sunshine - christina perri</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
+
+
+
 “You Are My Sunshine”이라는 노래를 배경으로 한 James의 비디오는 NBA 전설에게 경의를 표하는 것처럼 널리 유포되고 있습니다.
+
+
 
 제임스의 열혈팬들을 조롱하는 방법으로 2023년 초에 시작되었습니다. 
 제임스는 그의 커리어의 전반적으로 열혈팬들 만큼 까는 사람들도 많았습니다.
@@ -22,7 +27,15 @@ sitemap: true
 
 제임스만큼 싫어하는 사람과 좋아하는 사람이 많은 NBA 스타는 없을 것이며 빠와 까 만큼은 축구의 호날두와 비슷한 위치라 생각합니다.
 
+
 마지막으로 대상혁 숭배 대본과 비슷한 제임스 숭배 대본을 첨부하도록 하겠습니다.
+
+
+
+
+
+
+
 
 Boy oh boy where do I even begin. Lebron..
 honey, my pookie bear. I have loved you
