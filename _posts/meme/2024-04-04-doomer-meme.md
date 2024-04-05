@@ -3,7 +3,7 @@ layout: post
 title: 오늘은 4chan 밈인 Doomer에 대해 알아보자
 date: 2024-04-04 14:41 +0900
 description: 
-image: https://i.namu.wiki/i/1Fy9Ti8nvhihKG3gdST3zubQuttbdU1mN6FaJC3tqJE3voHQ_C2c7DDlkz3jzCBX2Abw2hojrUwYGa_uPrytbg2fvImD0o6sD3PU-tozty33OCUJ5AMUCtwCdOBSb40_3ak-YkWhq2JKGsnbvg2yPA.webp
+image: /KIMJW04.github.io/assets/img/doomer.jpg
 category: meme
 tags: doomer doomerwojak 염세주의
 published: true

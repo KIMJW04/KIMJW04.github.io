@@ -3,7 +3,7 @@ layout: post
 title: 드디어 수입된 르브론 제임스 밈
 date: 2024-04-03 09:24 +0900
 description: 
-image: https://i.kym-cdn.com/entries/icons/facebook/000/049/004/lebronsunshinecover.jpg
+image: /KIMJW04.github.io/assets/img/lebronyouaremysunshine.jpg
 category: meme
 tags: 르브론제임스 르브론밈 르브론
 published: true
