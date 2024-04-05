@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 한잔해 밈에 대해 알아보자
-date: 2024-04-05 13:09 +0900
+title: 객체 생성자 함수의 역사와 미래
+date: 2024-04-02 15:33 +0900
 description: 
-image:
-category: meme
-tags: 한잔해 페페 정신승리 해외밈
+image: ../assets/img/javascript.jpg
+category: coding
+tags: 객체 생성자 함수 생성자함수
 published: true
 sitemap: true
 ---
