@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "한잔해" 밈에 대해 알아보자
+title: 한잔해 밈에 대해 알아보자
 date: 2024-04-05 15:33 +0900
 description: 
 image: /KIMJW04.github.io/assets/img/pepehanjanhea.jpg
