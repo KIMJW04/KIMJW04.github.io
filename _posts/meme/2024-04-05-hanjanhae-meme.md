@@ -3,9 +3,9 @@ layout: post
 title: ㅁㄴㅇ
 date: 2024-04-05 15:33 +0900
 description: 
-image: ../assets/img/javascript.jpg
+image: 
 category: coding
-tags: 객체 생성자 함수 생성자함수
+tags: 밈
 published: true
 sitemap: true
 ---
