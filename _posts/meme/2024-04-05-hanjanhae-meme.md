@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 객체 생성자 함수의 역사와 미래
-date: 2024-04-05 13:10 +0900
+date: 2024-04-05 15:33 +0900
 description: 
-image: 
-category: meme
-tags: 
+image: ../assets/img/javascript.jpg
+category: coding
+tags: 객체 생성자 함수 생성자함수
 published: true
 sitemap: true
 ---
