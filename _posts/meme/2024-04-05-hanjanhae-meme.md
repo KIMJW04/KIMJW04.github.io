@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 객체 생성자 함수의 역사와 미래
+title: ㅁㄴㅇ
 date: 2024-04-05 15:33 +0900
 description: 
 image: ../assets/img/javascript.jpg
