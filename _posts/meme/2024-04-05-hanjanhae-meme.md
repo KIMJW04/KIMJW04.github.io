@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "한잔해" 밈에 대해 알아보자
+title: 한잔해 밈에 대해 알아보자
 date: 2024-04-05 15:33 +0900
 description: 
 image: /KIMJW04.github.io/assets/img/pepehanjanhea.jpg
@@ -13,7 +13,7 @@ sitemap: true
 안녕하십니까. 오늘은 "한잔해" 밈에 대해 알아보도록 하겠습니다
 
 # "한잔해"의 유래와 용도
-<img src="/KIMJW04.github.io/assets/img/chbihanjanhea.jpg" alt="">
+![이미지](/KIMJW04.github.io/assets/img/chbihanjanhea.jpg)
 
 
 DC인사이드 해외축구갤러리에서 정돈된 형태로 유행한 밈입니다.
@@ -44,7 +44,7 @@ DC인사이드 해외축구갤러리에서 정돈된 형태로 유행한 밈입�
 
 지금은 밈의 형태로 여러가지 상황에 활용되고 있으며 
 
-<img src="/KIMJW04.github.io/assets/img/pepehanjanhea.jpg" alt="">
+![이미지](/KIMJW04.github.io/assets/img/pepehanjanhea.jpg)
 
 개구리 페페의 사진과 같이 쓰이고 있다.
 
