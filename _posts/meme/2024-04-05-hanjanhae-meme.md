@@ -5,7 +5,7 @@ date: 2024-04-05 15:33 +0900
 description: 
 image: 
 category: coding
-tags: 밈
+tags: 한잔해 수입밈 밈 meme 페페한잔해
 published: true
 sitemap: true
 ---
