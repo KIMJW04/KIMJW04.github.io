@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 객체 생성자 함수의 역사와 미래
+title: "한잔해" 밈에 대해 알아보자
 date: 2024-04-05 15:33 +0900
 description: 
-image: ../assets/img/javascript.jpg
-category: coding
-tags: 객체 생성자 함수 생성자함수
+image: https://i.namu.wiki/i/d4czMvYQAS38sCKQzfHDsrm4hv09mA2-pAm0YIOJeau2v7bqTLtIovFEKqsbbYF1p5amFyCQj5UvBZBoWoEjG7FnO7ffu51vOBoJMr3dkXsSo68NqlOnH72GfpUc6FHtAANIpmzsNY4fpaSKQdPjYw.webp
+category: meme
+tags: 한잔해밈 한잔해 페페한잔해 meme 밈
 published: true
 sitemap: true
 ---
@@ -13,7 +13,7 @@ sitemap: true
 안녕하십니까. 오늘은 "한잔해" 밈에 대해 알아보도록 하겠습니다
 
 # "한잔해"의 유래와 용도
-![이미지]("https://i.namu.wiki/i/0iZa1i4H4-S0cCfbGczjFsTFtZWwLxKuB047mudVWCPTBZA89rxR36SPrS3TPcERXBxmJSpjhALUWX1OFf_vhWMFuMmedGUP5fHavfF1q9u21d7ly-MmlCyjoLKLBmVGeCSus3-qvzPguOPT4xUelA.webp")
+![이미지](https://i.namu.wiki/i/0iZa1i4H4-S0cCfbGczjFsTFtZWwLxKuB047mudVWCPTBZA89rxR36SPrS3TPcERXBxmJSpjhALUWX1OFf_vhWMFuMmedGUP5fHavfF1q9u21d7ly-MmlCyjoLKLBmVGeCSus3-qvzPguOPT4xUelA.webp)
 DC인사이드 해외축구갤러리에서 정돈된 형태로 유행한 밈입니다.
 축구선수 차비 에르난데스가 와인을 들고 있는 사진을 올리며 "한잔해. 아름다운 축구 했잖아."라는 조롱이 유행하기 시작했습니다.
 이후 인터넷상에서 '아름다운 ~~~ 했잖아' 등의 글 내용+위의 사진과 함께 다양한 글의 패러디로 쓰이고 있씁니다.
@@ -38,13 +38,11 @@ DC인사이드 해외축구갤러리에서 정돈된 형태로 유행한 밈입�
 
 바르셀로나의 감독이 된 차비가 2022년 9월 14일 챔스에서 다시 만난 바이에른 원정 경기에서 2:0으로 또 한 번 패했는데, 경기력 측면에서 바르사가 바이에른보다 나았다는 인터뷰를 했다는 기사가 나오자 타팀 축구 팬들로부터 차비는 또 한 번 조롱을 당했다. 그리고 10월 27일 캄 노우에서 열린 홈경기에서 바이에른을 상대로 0:3 패배를 또 당하고 말았다. 바르사는 2년 연속 챔스 조별리그 탈락을 하게 되었는데 , 차비는 10월 31일 인터뷰에서도 바르사가 바이에른과 FC 인테르나치오날레 밀라노보다 경기력이 나았다고 말했다.
 
-출처: 나무위키 
-![링크]("https://namu.wiki/w/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%B6%95%EA%B5%AC%20%ED%96%88%EC%9E%96%EC%95%84?from=%ED%95%9C%EC%9E%94%ED%95%B4")
-<!-- <a href=>아름다운 축구 했잖아</a>문서 -->
+출처: 나무위키 <a href="https://namu.wiki/w/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%B6%95%EA%B5%AC%20%ED%96%88%EC%9E%96%EC%95%84?from=%ED%95%9C%EC%9E%94%ED%95%B4">아름다운 축구 했잖아</a>문서
 
 지금은 밈의 형태로 여러가지 상황에 활용되고 있으며 
 
-![이미지]("https://i.namu.wiki/i/d4czMvYQAS38sCKQzfHDsrm4hv09mA2-pAm0YIOJeau2v7bqTLtIovFEKqsbbYF1p5amFyCQj5UvBZBoWoEjG7FnO7ffu51vOBoJMr3dkXsSo68NqlOnH72GfpUc6FHtAANIpmzsNY4fpaSKQdPjYw.webp")
+![이미지](https://i.namu.wiki/i/d4czMvYQAS38sCKQzfHDsrm4hv09mA2-pAm0YIOJeau2v7bqTLtIovFEKqsbbYF1p5amFyCQj5UvBZBoWoEjG7FnO7ffu51vOBoJMr3dkXsSo68NqlOnH72GfpUc6FHtAANIpmzsNY4fpaSKQdPjYw.webp)
 
 
 개구리 페페의 사진과 같이 쓰이고 있다.
