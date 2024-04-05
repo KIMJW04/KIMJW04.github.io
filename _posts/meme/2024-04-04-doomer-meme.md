@@ -21,7 +21,11 @@ sitemap: true
 
 … 그러나 우리는 깨어나 버렸다. 이 세상이 병들고, 잔혹하고, 무의미한 곳이라는 것을 알아 버렸다. 우리들 같은 사람들이 역사 속 어디에서든 공감하는 자연이라는 공통분모는 지금 바로 우리의 손에 의해 허망하게 파괴되고 있다. 당장 불안을 모두 벗어던지고 성공적인 삶을 쫓을 수 있다 하여도, 피할 수 없는 파멸을 맞이하고 있다면 그것이 무슨 소용이 있으랴.
 … But we have woken up. We know that the world is a cruel, sick, and meaningless place. The one pure constant throughout history for people like us is what we are now hopelessly destroying- nature. Even if we could ascend all of our anxieties and attempt to lead a meaningful life, what would the point be if we are faced with inevitable collapse.
+<<<<<<< HEAD
 레딧의 서브레딧 r/doomer에 영구 고정된 "두머가 당부하는 말(Notes from a doomer)"의 일부 <a href="https://www.reddit.com/r/doomer/comments/eqny86/notes_from_a_doomer/?rdt=41134">link</a>
+=======
+레딧의 서브레딧 r/doomer에 영구 고정된 "두머가 당부하는 말(Notes from a doomer)"의 일부 !<a href="https://www.reddit.com/r/doomer/comments/eqny86/notes_from_a_doomer/?rdt=41134">link</a>
+>>>>>>> 72acbce2cd593e91a249c0c0bfd248b095d43be6
 
 '4chan에서 유래된 용어로, 파멸을 뜻하는 영단어 Doom과 접미사 -er의 합성어며 베이비부머(Boomer)에서 앞 글자만 바꾼 것이다. 각종 경제 불황과 사회문제, 인곤관계의 실패, 실직 등을 경험하고 무관심, 염세주의, 자기혐오, 우울증 등에 빠져들어 외톨이가 된 1980년대 중반 ~ 2000년대 초 출생자(밀레니얼 세대, Z세대 초기)를 뜻한다.
 
@@ -56,7 +60,11 @@ sitemap: true
 -출처: 나무위키 
 <a herf="https://namu.wiki/w/%EB%91%90%EB%A8%B8">두머<a>
 문서
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 72acbce2cd593e91a249c0c0bfd248b095d43be6
 
 두머와 같은 문화는 아무렇게나 생겨나는게 아니라고 생각합니다.
 우리 현대사회는 많은 문제점을 해결해야하며 더 나은 사회로 발전하기 위한 과도기라고 생각합니다.
