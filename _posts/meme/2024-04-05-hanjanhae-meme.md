@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '한잔해' 밈에 대해 알아보자
+title: 한잔해 밈에 대해 알아보자
 date: 2024-04-05 13:09 +0900
 description: 
-image: 
+image: https://i.namu.wiki/i/d4czMvYQAS38sCKQzfHDsrm4hv09mA2-pAm0YIOJeau2v7bqTLtIovFEKqsbbYF1p5amFyCQj5UvBZBoWoEjG7FnO7ffu51vOBoJMr3dkXsSo68NqlOnH72GfpUc6FHtAANIpmzsNY4fpaSKQdPjYw.webp
 category: meme
 tags: 한잔해 페페 정신승리 해외밈
 published: true
