@@ -13,7 +13,8 @@ sitemap: true
 안녕하십니까. 오늘은 '한잔해' 밈에 대해 알아보도록 하겠습니다
 
 # '한잔해'의 유래와 용도
-<img src="https://i.namu.wiki/i/0iZa1i4H4-S0cCfbGczjFsTFtZWwLxKuB047mudVWCPTBZA89rxR36SPrS3TPcERXBxmJSpjhALUWX1OFf_vhWMFuMmedGUP5fHavfF1q9u21d7ly-MmlCyjoLKLBmVGeCSus3-qvzPguOPT4xUelA.webp">
+![이미지](https://i.namu.wiki/i/0iZa1i4H4-S0cCfbGczjFsTFtZWwLxKuB047mudVWCPTBZA89rxR36SPrS3TPcERXBxmJSpjhALUWX1OFf_vhWMFuMmedGUP5fHavfF1q9u21d7ly-MmlCyjoLKLBmVGeCSus3-qvzPguOPT4xUelA.webp)
+
 
 DC인사이드 해외축구갤러리에서 정돈된 형태로 유행한 밈입니다.
 축구선수 차비 에르난데스가 와인을 들고 있는 사진을 올리며 "한잔해. 아름다운 축구 했잖아."라는 조롱이 유행하기 시작했습니다.
