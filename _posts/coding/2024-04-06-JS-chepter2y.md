@@ -1,11 +1,11 @@
 ---
 layout: post
-title: JS chepter1
-date: 2024-04-02 15:33 +0900
+title: JS chepter2
+date: 2024-04-05 14:26 +0900
 description: 
 image: ../assets/img/javascript.jpg
 category: coding
-tags: 객체 생성자 함수 생성자함수
+tags: 
 published: true
 sitemap: true
 ---
