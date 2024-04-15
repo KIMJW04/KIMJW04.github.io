@@ -27,12 +27,12 @@ Happy Happy Happy, All My Fellas에 이어 유행하는 고양이 밈입니다. 
 
 아래는 가사로 단조로운 가사형태를 띄고 있지만 템포가 빠르고 음이 높아 특유의 중독성을 보여주는 밈입니다.
 
-Chipi chipi chapa chapa
-치피 치피 차파 차파
-Dubi dubi daba daba
-두비 두비 다바 다바
-Mágico mi dubi dubi
-마법 같은 나의 두비 두비
-Bum Bum Bum Bum
-붐 붐 붐 붐
-Happy Happy Happy, A
+Chipi chipi chapa chapa<br>
+치피 치피 차파 차파<br>
+Dubi dubi daba daba<br>
+두비 두비 다바 다바<br>
+Mágico mi dubi dubi<br>
+마법 같은 나의 두비 두비<br>
+Bum Bum Bum Bum<br>
+붐 붐 붐 붐<br>
+Happy Happy Happy
